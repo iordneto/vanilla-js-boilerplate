@@ -1,7 +1,7 @@
 {
-  "name": "todo-list",
+  "name": "vanilla-js-boilerplate",
   "version": "1.0.0",
-  "description": "A simple to-do list app built with VannilaJS",
+  "description": "A Boilerplate to build projects following the best coding formatting and git practices.",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
@@ -18,14 +18,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/iordneto/todo-list.git"
+    "url": "git+https://github.com/iordneto/vanilla-js-boilerplate.git"
   },
   "author": "Iord Neto <iordneto95@gmail.com> (https://iordneto.com.br/)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/iordneto/todo-list/issues"
+    "url": "https://github.com/iordneto/vanilla-js-boilerplate/issues"
   },
-  "homepage": "https://github.com/iordneto/todo-list#readme",
+  "homepage": "https://github.com/iordneto/vanilla-js-boilerplate#readme",
   "devDependencies": {
     "cz-conventional-changelog": "^3.3.0",
     "eslint": "^8.15.0",
